@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.container {
+  background: #23424a;
+  color: white;
+  padding: 50px;
+}
+
+.intro-content {
+  width: 50%;
+}
+
+.intro-content p {
+  font-size: 20px;
+  color: #ffffffd9;
+  margin-bottom: 3rem;
+}
+
+.intro-content button {
+  background-color: aqua;
+  padding: 0.75em 1.5em;
+  color: #072a2d;
+  font-weight: 700;
+  border: none;
+  border-radius: 1.5em;
+  cursor: pointer;
+}

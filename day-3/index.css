@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.container {
+  background-color: #dedede;
+  padding: 1rem;
+  width: 80%;
+  max-width: 60rem;
+  margin: 0 auto;
+}
+
+.text {
+  width: 50%;
+}
